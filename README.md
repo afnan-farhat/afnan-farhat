@@ -1,6 +1,6 @@
 # Hi there 👋. I’m Afnan:
 <div style="text-align: center;">
-  <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/e9027c9b-6783-4657-8f4e-105a44a77782" alt="Hello world">
+  <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/e9027c9b-6783-4657-8f4e-105a44a77782" alt="Hello world" width="1200" height= "350">
 </div>
 
 <!--[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
