@@ -14,6 +14,6 @@ Hi there 👋. I’m Afnan Farhat,
 ## Get in touch :coffee:
 
 - [Twitter](https://X.com/Afnantarig)
-- [LinkedIn]([https://www.linkedin.com/in/afnan-farhat](https://www.linkedin.com/in/afnan-farhat-b33bb627a?))
+- [LinkedIn](https://www.linkedin.com/in/afnan-farhat-b33bb627a?)
 - [Email](afnan.t.farhat@gmail.com)
 
