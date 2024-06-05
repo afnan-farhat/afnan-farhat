@@ -1,6 +1,6 @@
 # Hi there 👋. I’m Afnan:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/917c07b5-3314-4d5c-b9b1-e38cdcdc5ada" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
