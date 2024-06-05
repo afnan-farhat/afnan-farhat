@@ -8,8 +8,9 @@
 </p>
 
 ## About me
-
 Hi there 👋. I’m Afnan Farhat,
+
+
 
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/77cdf69d-0e15-4b69-8d51-956d74635686" alt="java" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/49cba83f-c41d-4b64-b09c-65e8cb533b37" alt="python" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
@@ -17,6 +18,9 @@ Hi there 👋. I’m Afnan Farhat,
 
 
 ## Get in touch :coffee:
+<a href="https://X.com/Afnantarig" target="_blank">
+  <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/91121bc4-059b-4d65-94c4-e91f114326a4" alt="X" width="30" />
+</a>
 
 - [Twitter](https://X.com/Afnantarig)
 - [LinkedIn](https://www.linkedin.com/in/afnan-farhat-b33bb627a?)
