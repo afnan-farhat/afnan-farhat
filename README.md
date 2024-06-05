@@ -15,7 +15,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 <!--- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)-->
 
-<code><img height="20" alt="java" src="C:\Users\Afnan\Desktop\logos\java.jpg"></code>
+<code><img height="20" alt="java" src="[C:\Users\Afnan\Desktop\logos\java.jpg](https://ibb.co/hYR8pMN)"></code>
 
 <code><img height="20" alt="Python" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png](https://www.google.com/imgres?q=python%20logo%20high%20quality&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1869px-Python-logo-notext.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&docid=UsVbBfpzLC7enM&tbnid=CVQvyaOpjfIJxM&vet=12ahUKEwj7gZetscSGAxWrBfsDHTovHFUQM3oECBgQAA..i&w=1869&h=2048&hcb=2&ved=2ahUKEwj7gZetscSGAxWrBfsDHTovHFUQM3oECBgQAA)"></code>
 
