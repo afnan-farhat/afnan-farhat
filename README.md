@@ -1,5 +1,5 @@
 # Hi there 👋. I’m Afnan:
-
+[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
 ![chrome offline game cast](assets/screenshot.gif)
 <!--[![GitHub Game of Life](https://github4life.herokuapp.com/afnan-farhat.gif?z=6)](https://github4life.herokuapp.com/afnan-farhat)
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/7c517129-4dfe-4110-b2a9-c0fde5f77f3b" alt="Hello world"  width="1200" height= "350">-->
