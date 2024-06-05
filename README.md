@@ -11,7 +11,7 @@
 
 Hi there 👋. I’m Afnan Farhat,
 
-<img src="file:///C:/Users/Afnan/Desktop/logos/apatche-without-bg.png" alt="java" width="70" style="border-radius: 10px;">
+<img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/77cdf69d-0e15-4b69-8d51-956d74635686" alt="java" width="70" style="border-radius: 10px;">
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/49cba83f-c41d-4b64-b09c-65e8cb533b37" alt="python" width="50" style="border-radius: 10px;">
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/c4c99388-636b-4a1c-80ce-04653a09d6aa" alt="WordPress" width="50" style="border-radius: 10px;">
 
