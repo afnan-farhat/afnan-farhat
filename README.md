@@ -19,7 +19,7 @@ Hi there 👋. I’m Afnan Farhat,
 
 ## Get in touch :coffee:
 <a href="https://X.com/Afnantarig" target="_blank">
-  <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/91121bc4-059b-4d65-94c4-e91f114326a4" alt="X" width="30" />
+  <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/e89f4a9c-cd47-42de-a494-6a4d872e64ed" alt="X" width="30" />
 </a>
 
 - [Twitter](https://X.com/Afnantarig)
