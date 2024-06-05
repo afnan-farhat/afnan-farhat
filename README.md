@@ -1,5 +1,6 @@
 # Hi there 👋. I’m Afnan:
 
+[![GitHub Game of Life](https://github4life.herokuapp.com/afnan-farhat.gif?z=6)](https://github4life.herokuapp.com/afnan-farhat)
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/7c517129-4dfe-4110-b2a9-c0fde5f77f3b" alt="Hello world"  width="1200" height= "350">
 
 <p align="center"> 
@@ -28,7 +29,7 @@ Hi there 👋. I’m Afnan Farhat, a skilled and results-driven Android Develope
 
 
 <!--- [Twitter](https://X.com/Afnantarig)
-- [LinkedIn](https://www.linkedin.com/in/afnan-farhat-b33bb627a?)-->
+- [LinkedIn](https://www.linkedin.com/in/afnan-farhat-b33bb627a?)
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=afnan-farhat\&show_icons=true\&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/afnan-farhat/github-readme-stats#responsive-card-theme#codeSTACKr)
@@ -37,4 +38,4 @@ Hi there 👋. I’m Afnan Farhat, a skilled and results-driven Android Develope
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=afnan-farhat\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/afnan-farhat/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-farhat&hide_progress=codeSTACKr)
-
+-->
