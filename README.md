@@ -21,9 +21,13 @@ Hi there 👋. I’m Afnan Farhat, a skilled and results-driven Android Develope
   <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/e89f4a9c-cd47-42de-a494-6a4d872e64ed" alt="X" width="30" />
 </a>
 
+<a href="https://www.linkedin.com/in/afnan-farhat-b33bb627a?" target="_blank">
+  <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/37a7bf35-97b9-4748-be01-4a76442b4645" alt="Linkedin" width="30" />
+</a>
+
+
 - [Twitter](https://X.com/Afnantarig)
 - [LinkedIn](https://www.linkedin.com/in/afnan-farhat-b33bb627a?)
-- [Email](afnan.t.farhat@gmail.com)
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=afnan-farhat\&show_icons=true\&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/afnan-farhat/github-readme-stats#responsive-card-theme#codeSTACKr)
