@@ -12,14 +12,8 @@
 Hi there 👋. I’m Afnan Farhat,
 
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/39139598-a814-42a3-95ec-aa4239c0eeb5" alt="java" width="100" style="border-radius: 10px;">
-<img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/39139598-a814-42a3-95ec-aa4239c0eeb5" alt="java" width="100" style="border: 2px solid #000;">
-
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/39139598-a814-42a3-95ec-aa4239c0eeb5" alt="python" width="100" style="border-radius: 10px;">
+<img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/39139598-a814-42a3-95ec-aa4239c0eeb5" alt="WordPress" width="100" style="border-radius: 10px;">
 
 
 ## Get in touch :coffee:
