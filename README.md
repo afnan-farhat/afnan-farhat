@@ -1,6 +1,6 @@
 # Hi there 👋. I’m Afnan:
 
-<img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/c1bfaee1-6907-4d73-9581-e560de6be5d7" alt="Hello world">
+<img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/7c517129-4dfe-4110-b2a9-c0fde5f77f3b" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
