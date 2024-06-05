@@ -11,10 +11,10 @@
 
 Hi there 👋. I’m Afnan Farhat,
 
-<img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/1b50e065-83ec-4fe4-b7dc-a033b47a0652" alt="java" width="100" style="border-radius: 10px;">
+<img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/b4921815-ec78-4a5f-a959-88dd56bc3517" alt="java" width="100" style="border-radius: 10px;">
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/49cba83f-c41d-4b64-b09c-65e8cb533b37" alt="python" width="50" style="border-radius: 10px;">
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/c4c99388-636b-4a1c-80ce-04653a09d6aa" alt="WordPress" width="50" style="border-radius: 10px;">
-
+\
 ## Get in touch :coffee:
 
 - [Twitter](https://X.com/Afnantarig)
