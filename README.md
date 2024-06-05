@@ -12,6 +12,7 @@
 Hi there 👋. I’m Afnan Farhat,
 
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/39139598-a814-42a3-95ec-aa4239c0eeb5" alt="java" width="100" style="border-radius: 10px;">
+<img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/39139598-a814-42a3-95ec-aa4239c0eeb5" alt="java" width="100" style="border: 2px solid #000;">
 
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
