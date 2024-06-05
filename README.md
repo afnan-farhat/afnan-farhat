@@ -36,5 +36,5 @@ Hi there 👋. I’m Afnan Farhat, a skilled and results-driven Android Develope
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=afnan-farhat\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/afnan-farhat/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-farhat&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-farhat&hide_progress=codeSTACKr)
 
