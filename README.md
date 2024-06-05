@@ -26,7 +26,7 @@ Hi there 👋. I’m Afnan Farhat, a skilled and results-driven Android Develope
 - [Email](afnan.t.farhat@gmail.com)
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=afnan-farhat\&show_icons=true\&theme=colorful#gh-dark-mode-only)](https://github.com/afnan-farhat/github-readme-stats#responsive-card-theme#colorful)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=afnan-farhat\&show_icons=true\&theme=github_dark#gh-dark-mode-only)](https://github.com/afnan-farhat/github-readme-stats#responsive-card-theme#github_dark)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=afnan-farhat\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/afnan-farhat/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 
