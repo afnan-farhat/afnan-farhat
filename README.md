@@ -25,11 +25,7 @@ Hi there 👋. I’m Afnan Farhat,
 - [Email](afnan.t.farhat@gmail.com)
 
 
-[![Anurag's GitHub stats-Dark]([https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only](https://github-readme-stats.vercel.app/api?username=afnan-farhat&theme=algolia&show_icons=true))
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=afnan-farhat\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/afnan-farhat/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=afnan-farhat\&show_icons=true\&theme=github_dark#gh-dark-mode-only)](https://github.com/afnan-farhat/github-readme-stats#responsive-card-theme#github_dark)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=afnan-farhat\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/afnan-farhat/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 
