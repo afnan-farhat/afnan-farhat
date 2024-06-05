@@ -20,7 +20,7 @@ Hi there 👋. I’m Afnan Farhat, a skilled and results-driven Android Develope
 
 
 
-## Get in touch :coffee:
+## Programming Languages :coffee:
 
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/77cdf69d-0e15-4b69-8d51-956d74635686" alt="java" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/49cba83f-c41d-4b64-b09c-65e8cb533b37" alt="python" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
