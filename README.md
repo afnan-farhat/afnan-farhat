@@ -13,7 +13,8 @@
 </p>-->
 
 ## About me
-Hi there 👋. I’m Afnan Farhat, a skilled and results-driven Android Developer with a strong background in Android app development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the Android ecosystem, I build solutions that are not only functional but also delightful. Besides my 9to5, I love to give back to the community by blogging, speaking, and open-sourcing my ideas. My love for community led me to Google Developer Expert for Android. If I’m not crafting app/library then probably wondering about the universe’s existence.
+Hi there 👋. I’m Afnan Farhat, a passionate IT student proficient in Java and Python, with practical experience in web development and a strong interest in UI/UX design. Eager to learn Flutter for cross-platform development, I excel in analytical skills and creative problem-solving. Actively engaged in coding communities and hackathons, I enhance my teamwork and collaboration skills. I am dedicated to applying my technical knowledge to real-world projects, and developing innovative solutions that improve user experience and application performance. Committed to continuous self-improvement and contributing to the tech community.
+
 
 <a href="https://X.com/Afnantarig" target="_blank">
   <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/e89f4a9c-cd47-42de-a494-6a4d872e64ed" alt="X" align="right" width="40" />
