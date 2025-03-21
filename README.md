@@ -33,7 +33,7 @@ I am passionate about solving complex problems, constantly learning, and staying
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/fluent/512/flutter.png" alt="Flutter" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-3-pack-logos-icons-2944871.png?f=webp" alt="Firebase" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" alt="Figma" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" alt="Figma" align="left" width="40" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
 
 
 <!--- [Twitter](https://X.com/Afnantarig)
