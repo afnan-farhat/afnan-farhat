@@ -11,8 +11,9 @@
 </p>-->
 
 ## About me
-Hi there 👋. I’m Afnan Farhat, a passionate IT student proficient in Java and Python, with practical experience in web development and a strong interest in UI/UX design. Eager to learn Flutter for cross-platform development, I excel in analytical skills and creative problem-solving. Actively engaged in coding communities and hackathons, I enhance my teamwork and collaboration skills. I am dedicated to applying my technical knowledge to real-world projects, and developing innovative solutions that improve user experience and application performance. Committed to continuous self-improvement and contributing to the tech community.
+Hi there 👋! I’m Afnan, an IT enthusiast with a diverse skill set in software engineering, full-stack development, and UI/UX design. With proficiency in Java, Python, React, Wordpress, and an eagerness to master Flutter for cross-platform development, I thrive in creating robust, scalable applications and intuitive user interfaces. My journey has been shaped by hands-on experiences in web development, where I’ve worked on both front-end and back-end technologies, delivering high-performance solutions.
 
+I am passionate about solving complex problems, constantly learning, and staying updated with the latest trends in tech. As an active participant in coding communities and hackathons, I value collaboration and teamwork, using every opportunity to improve my skills. I am dedicated to building innovative solutions that enhance user experience and application performance, while contributing meaningfully to the tech community.
 
 <a href="https://X.com/Afnantarig" target="_blank">
   <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/e89f4a9c-cd47-42de-a494-6a4d872e64ed" alt="X" align="right" width="40" />
