@@ -30,7 +30,7 @@ Hi there 👋. I’m Afnan Farhat, a passionate IT student proficient in Java an
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/49cba83f-c41d-4b64-b09c-65e8cb533b37" alt="python" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/c4c99388-636b-4a1c-80ce-04653a09d6aa" alt="WordPress" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/afnan-farhat/afnan-farhat/blob/main/images/react%20logo.png" alt="React" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
-<img src="https://github.comafnan-farhat/afnan-farhat/blob/main/images/flutter.logo.png" alt="Flutter" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
+<img src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="Flutter" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
 
 
 <!--- [Twitter](https://X.com/Afnantarig)
