@@ -32,6 +32,9 @@ I am passionate about solving complex problems, constantly learning, and staying
 <img src="https://github.com/afnan-farhat/afnan-farhat/assets/143901435/c4c99388-636b-4a1c-80ce-04653a09d6aa" alt="WordPress" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/fluent/512/flutter.png" alt="Flutter" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" alt="Firebase" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" alt="Figma" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
 
 
 <!--- [Twitter](https://X.com/Afnantarig)
